@@ -14,3 +14,10 @@ ChatGPT - https://chat.openai.com/
 
 
 ![chatGPT](https://github.com/anishsingh20/Useful-ChatGPT-Prompts/assets/15655876/56664694-f399-458f-bc8e-3d03aeebf304)
+
+
+### Useful GenerativeAI platforms using ChatGPT:
+
+
+
+![GenAIPlatforms](https://github.com/anishsingh20/Useful-ChatGPT-Prompts/assets/15655876/30244945-a5f7-4a8c-8c14-13f429fd0843)
