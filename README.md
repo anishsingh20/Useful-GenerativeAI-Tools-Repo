@@ -26,6 +26,13 @@ ChatGPT - https://chat.openai.com/
 
 
 
+
+
+
 ### Useful ChatGPT prompts for HR
 
 <img width="575" alt="ChatGPT_Prompts_for_HR" src="https://github.com/anishsingh20/Useful-ChatGPT-Prompts/assets/15655876/cdc04810-eae7-40c2-af66-32179ed4248e">
+
+
+
+
