@@ -1,5 +1,7 @@
-# Useful-ChatGPT-Prompts
-This repository has helpful prompts for LLM and Generative AI models like Bard and ChatGPT.
+# Useful-GenerativeAI-Tools-Repo
+
+
+This repository has valuable automation AI tools to maximize your productivity and make you more effective at what you do. 
 
 Excellent free course on Prompt Engineering for LLM models - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
